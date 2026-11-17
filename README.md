@@ -1,2 +1,2 @@
 # sixsigmaquiz
-sixsigma quizzing platform 
+sixsigma quizzing platform with ASQ information too
